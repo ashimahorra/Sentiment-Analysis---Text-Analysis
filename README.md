@@ -6,3 +6,6 @@ Performed co-occurance analysis to find which hashtags #shutdown is most linked 
 
 ## Airline Sentiment Analisys
 Analysing the snetiment of customers of major airlines. Performed logistic regression and naive Bayes to predict the sentiment(negative neutral, positive) of tweets 
+
+## Clustering of Songs based on their lyrics
+Clustered songs based on their lyrics and studied the different clusteres that were formed.
